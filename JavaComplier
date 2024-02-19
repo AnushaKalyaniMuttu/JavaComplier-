@@ -1,2 +1,17 @@
 javac filename.java
 generates filename.class  file after complin
+
+
+//in the cmd enter following command
+type filename.java
+// this will show the contents of the java file ehich you have written
+
+//now enter
+type filename.class
+//filename of the class file that was generated after compiling
+//this shows a content which is not readable which is a byte code
+
+
+//then run following code
+java filename
+// no need to give .java or .class name
